@@ -9,3 +9,19 @@ Pasos realizados:
 4. Creé el archivo README.txt y hice el primer commit "docs: nuevo archivo".
 5. Subí el commit a mi fork con git push origin main.
 6. Creé la rama docs/modificaciones con git checkout -b.
+
+Capturas:
+captura01.png
+captura02.png
+captura03.png
+captura04.png
+captura05.png
+captura06.png
+captura07.png
+captura08.png
+captura09.png
+captura10.png
+captura11.png
+captura12.png
+captura13.png
+captura14.png
